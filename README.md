@@ -290,7 +290,7 @@ Gestionar las canciones eliminadas en la tabla `canciones_eliminadas`.
 ## 📥 Instalación y Ejecución
 1. Clonar el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/discoteca.git
+    git clone https://github.com/SerkaFox/gestion-musica-discoteca.git
     ```
 2. Importar el proyecto en tu IDE (IntelliJ, Eclipse, etc.).
 3. Configurar la conexión a la base de datos en `DatabaseConnection.java`.
